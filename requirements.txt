@@ -3,6 +3,6 @@ requests
 allure-pytest
 pytest-html
 pymysql
-jsonschema
 python-dotenv
 pydantic
+yaml
