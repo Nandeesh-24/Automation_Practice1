@@ -1,0 +1,11 @@
+default:
+  base_url: https://rahulshettyacademy.com
+  timeout: 10
+  headers:
+    Accept: application/json
+    Content-Type: application/json
+  auth:
+    endpoint: /api/ecom/auth/login
+    payload:
+      userEmail: nandishnandu24@gmail.com
+      userPassword: fuxfin-muWdex-0nimbe
